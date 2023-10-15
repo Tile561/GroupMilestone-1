@@ -1,4 +1,6 @@
+
 ```
+
 Sean's Favorite Apps:
     1.Wells Fargo Mobile Banking App.
         1. Fast authentication of money transfers via code sent to user contact (phone or email).
@@ -10,8 +12,8 @@ Sean's Favorite Apps:
         3. Editable messages even after delivery to recipient.
     3. Netflix.
         1. Horizontal scrolling of rows of selectable shows and movies. 
-        2. 
-        3. 
+        2. Items are categorized based on recently watched.
+        3. Persistent log-in. 
 ```
 
 George's Favorite Apps:
